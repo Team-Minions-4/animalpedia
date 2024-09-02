@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title> Timetable </title></head>
+  <head> Timetable </head>
 <body>
 <h1><u> COLLEGE TIMETABLE</u> </h1>
 <br><br>
